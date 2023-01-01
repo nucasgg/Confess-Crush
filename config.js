@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "HAPPY NEW YEAR",
-    introTitle: 'Trần Khánh Ly',
+    introTitle: 'Bich Thao',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
